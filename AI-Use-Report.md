@@ -12,7 +12,7 @@
 Did you use an AI tool for this lab?
 
 - [ ] Yes
-- [ ] No
+- [ x ] No
 
 If yes, complete the sections below. If no, write “No AI tool was used” under Summary.
 
@@ -44,10 +44,10 @@ Response:
 
 Describe one concept or programming skill you understand better after completing the lab.
 
-Response:
+Response:how to use bubble sort 
 
 ## Summary
 
 Provide any additional information about your use of AI for this lab.
 
-Response:
+Response: none 
